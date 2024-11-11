@@ -6,3 +6,4 @@ blinker==1.8.1
 click==3.0.3
 importlib-metadata==7.1.0
 MarkupSafe==2.1.5
+HMG
